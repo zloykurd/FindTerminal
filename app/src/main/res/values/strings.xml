@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FindAppTerminals</string>
+    <string name="title_activity_maps"></string>
+    <string name="action_settings">Settings</string>
+    <string name="support">Тех-поддержка</string>
+    <string name="idlocations">idlocations</string>
+    <string name="getsupportemail">support E-mail</string>
+    <string name="listview">Список</string>
+    <string name="title_activity_support">Тех-поддержка</string>
+    <string name="title_activity_find_list">FindListActivity</string>
+    <string name="title_activity_single_maps">Map</string>
+</resources>
